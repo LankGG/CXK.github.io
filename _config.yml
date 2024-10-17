@@ -1,1 +1,8 @@
-
+# _config.yml 示例
+title: "MY WEB"
+author: "CXK"
+email: "211123120048@zjut.edu.cn"
+description: "Update..."
+baseurl: "" # 如果是用户页面，则不需要设置 baseurl；如果是项目页面，则应设置为 '/项目名'
+url: "https://CXK.github.io" # 你的GitHub Pages URL
+github_username: "LankGG" # 你的GitHub用户名
