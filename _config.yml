@@ -3,6 +3,6 @@ title: "Xingkai Chen的个人主页"
 author: "Xingkai Chen"
 email: "211123120048@zjut.edu.cn"
 description: "这是一个个人的学术博客"
-#baseurl: "/CXK" # 如果是用户页面，通常是 '/用户名'
-#url: "https://CXK.github.io" # 你的GitHub Pages URL
+baseurl: "/CXK" # 如果是用户页面，通常是 '/用户名'
+url: "https://CXK.github.io" # 你的GitHub Pages URL
 github_username: "LankGG" # 你的GitHub用户名
